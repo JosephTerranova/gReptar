@@ -1,0 +1,15 @@
+C:\Users\administrator.TECHNO\source\repos\gReptar\bin\Debug\gReptar.exe.config
+C:\Users\administrator.TECHNO\source\repos\gReptar\bin\Debug\gReptar.exe
+C:\Users\administrator.TECHNO\source\repos\gReptar\bin\Debug\gReptar.pdb
+C:\Users\administrator.TECHNO\source\repos\gReptar\bin\Debug\System.Management.Automation.dll
+C:\Users\administrator.TECHNO\source\repos\gReptar\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\administrator.TECHNO\source\repos\gReptar\bin\Debug\System.Management.Automation.xml
+C:\Users\administrator.TECHNO\source\repos\gReptar\obj\Debug\gReptar.csproj.AssemblyReference.cache
+C:\Users\administrator.TECHNO\source\repos\gReptar\obj\Debug\gReptar.Form1.resources
+C:\Users\administrator.TECHNO\source\repos\gReptar\obj\Debug\gReptar.Properties.Resources.resources
+C:\Users\administrator.TECHNO\source\repos\gReptar\obj\Debug\gReptar.csproj.GenerateResource.cache
+C:\Users\administrator.TECHNO\source\repos\gReptar\obj\Debug\gReptar.csproj.CoreCompileInputs.cache
+C:\Users\administrator.TECHNO\source\repos\gReptar\obj\Debug\gReptar.csproj.Up2Date
+C:\Users\administrator.TECHNO\source\repos\gReptar\obj\Debug\gReptar.exe
+C:\Users\administrator.TECHNO\source\repos\gReptar\obj\Debug\gReptar.pdb
+C:\Users\administrator.TECHNO\source\repos\gReptar\obj\Debug\gReptar.exe.config
