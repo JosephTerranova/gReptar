@@ -1,4 +1,4 @@
-![Screenshot](gReptar-Screen1.png)
+![Screenshot](gReptar-screen1.png)
 
 A simple windows GREP utility to search through files.
 
